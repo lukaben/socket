@@ -1,0 +1,7 @@
+c:\users\lukas\documents\visual studio 2017\Projects\server_cs_cp\server_cs_cp\bin\Debug\server_cs_cp.exe.config
+c:\users\lukas\documents\visual studio 2017\Projects\server_cs_cp\server_cs_cp\bin\Debug\server_cs_cp.exe
+c:\users\lukas\documents\visual studio 2017\Projects\server_cs_cp\server_cs_cp\bin\Debug\server_cs_cp.pdb
+c:\users\lukas\documents\visual studio 2017\Projects\server_cs_cp\server_cs_cp\obj\Debug\server_cs_cp.csprojResolveAssemblyReference.cache
+c:\users\lukas\documents\visual studio 2017\Projects\server_cs_cp\server_cs_cp\obj\Debug\server_cs_cp.csproj.CoreCompileInputs.cache
+c:\users\lukas\documents\visual studio 2017\Projects\server_cs_cp\server_cs_cp\obj\Debug\server_cs_cp.exe
+c:\users\lukas\documents\visual studio 2017\Projects\server_cs_cp\server_cs_cp\obj\Debug\server_cs_cp.pdb
