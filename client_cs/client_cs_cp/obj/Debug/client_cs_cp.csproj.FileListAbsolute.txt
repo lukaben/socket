@@ -1,0 +1,7 @@
+C:\Users\Lukas\Documents\Visual Studio 2017\Projects\client_cs_cp\client_cs_cp\bin\Debug\client_cs_cp.exe.config
+C:\Users\Lukas\Documents\Visual Studio 2017\Projects\client_cs_cp\client_cs_cp\bin\Debug\client_cs_cp.exe
+C:\Users\Lukas\Documents\Visual Studio 2017\Projects\client_cs_cp\client_cs_cp\bin\Debug\client_cs_cp.pdb
+C:\Users\Lukas\Documents\Visual Studio 2017\Projects\client_cs_cp\client_cs_cp\obj\Debug\client_cs_cp.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Documents\Visual Studio 2017\Projects\client_cs_cp\client_cs_cp\obj\Debug\client_cs_cp.exe
+C:\Users\Lukas\Documents\Visual Studio 2017\Projects\client_cs_cp\client_cs_cp\obj\Debug\client_cs_cp.pdb
+C:\Users\Lukas\Documents\Visual Studio 2017\Projects\client_cs_cp\client_cs_cp\obj\Debug\client_cs_cp.csprojResolveAssemblyReference.cache
